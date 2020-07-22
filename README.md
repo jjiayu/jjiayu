@@ -8,7 +8,7 @@ My name is Jiayi, a PhD student in Robotics 🤖 at the University of Edinburgh.
 
 🌱 I will share more code bases for my research projects when appropriate.
 
-🌟 For more information aboout my research, please go to my [personal webpage](jjiayu.github.io).
+🌟 For more information aboout my research, please go to my [personal webpage](https://jjiayu.github.io/).
 
 <!--
 **jjiayu/jjiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
