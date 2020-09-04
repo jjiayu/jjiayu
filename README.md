@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-My name is Jiayi, a PhD student in Robotics 🤖 at the University of Edinburgh.
+I am Jiayi, a PhD student in Robotics 🤖 at the University of Edinburgh.
 
 🔭 I’m currently working on motion planning and control for legged robots, with a focus on optimizaiton-based approaches.
 
