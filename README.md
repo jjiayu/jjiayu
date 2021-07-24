@@ -4,10 +4,6 @@ I am Jiayi, a PhD student in Robotics 🤖 at the University of Edinburgh.
 
 🔭 I’m currently working on motion planning and control for legged robots, with a focus on optimizaiton-based approaches.
 
-😀 I’m open to discussion 💬 and collaboration 👯.
-
-🌱 More code bases for my research projects will come soon.
-
 🌟 For more information aboout my research, please go to my [personal homepage](https://jjiayu.github.io/).
 
 <!--
