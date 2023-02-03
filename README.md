@@ -2,7 +2,7 @@
 
 I am Jiayi Wang, a PhD student in Robotics 🤖 at the University of Edinburgh.
 
-🔭 I’m currently working on motion planning and control for legged robots, with a focus on optimizaiton-based approaches.
+🔭 My research focuses on motion planning and control for legged robots. 
 
 <!--
 **jjiayu/jjiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
