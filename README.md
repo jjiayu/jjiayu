@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I am Jiayi Wang, a PhD student in Robotics 🤖 at the University of Edinburgh.
+I am Jiayi Wang. I obtained my PhD degree in Robotics 🤖 from the University of Edinburgh.
 
 🔭 I work on motion planning and control of legged robots. 
 
