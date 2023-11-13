@@ -2,7 +2,7 @@
 
 I am Jiayi Wang. I received my PhD degree in Robotics 🤖 from the University of Edinburgh.
 
-🔭 I work on motion planning and control of legged robots. 
+🔭 I work on motion planning and control for multi-contact scenarios, e.g., legged locomotion on uneven terrain, loco-manipulation.
 
 <!--
 **jjiayu/jjiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
