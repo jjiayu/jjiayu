@@ -1,6 +1,8 @@
 ### Hi 👋
 
-I am Jiayi Wang. I received my PhD degree in Robotics 🤖 from the University of Edinburgh and I am currently working as a Research Associate (PostDoc) at the same institution.
+I am Jiayi Wang. 
+
+😄 I received my PhD degree in Robotics 🤖 from the University of Edinburgh and I am currently working as a Research Associate (PostDoc) at the same institution.
 
 🔭 My research focuses on developing real-time motion planning and control algorithms for complex multi-contact motions, e.g., uneven terrain locomotion, loco-manipulation.
 
