@@ -2,9 +2,9 @@
 
 I am Jiayi Wang. 
 
-😄 I received my PhD degree in Robotics 🤖 from the University of Edinburgh and I am currently working as a Research Associate (PostDoc) at the same institution.
+😄 I received my PhD degree in robotics 🤖 from The University of Edinburgh and I am currently working as a Research Associate (PostDoc) at the same institution.
 
-🔭 My research focuses on developing real-time motion planning and control algorithms for complex multi-contact motions, e.g., uneven terrain locomotion, loco-manipulation.
+🔭 My research focuses on multi-contact motion planning and control for complex scenarios, e.g., uneven terrain locomotion, loco-manipulation.
 
 <!--
 **jjiayu/jjiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
