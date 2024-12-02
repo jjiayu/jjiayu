@@ -6,6 +6,8 @@ I am Jiayi Wang.
 
 🔭 My research focuses on humanoid robots and multi-contact motion planning and control, including applications such as uneven-terrain locomotion and loco-manipulation.
 
+[Visit my website](https://jjiayu.github.io/)
+
 <!--
 **jjiayu/jjiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
