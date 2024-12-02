@@ -4,7 +4,7 @@ I am Jiayi Wang.
 
 😄 I received my PhD degree in robotics 🤖 from The University of Edinburgh and I am currently working as a Research Scientist at Beijing Institute for General Artificial Intelligence (BIGAI). 
 
-🔭 My research focuses on humanoid robots and multi-contact motion planning and contorl, e.g., uneven terrain locomotion and loco-manipulation.
+🔭 My research focuses on humanoid robots and multi-contact motion planning and control, including applications such as uneven-terrain locomotion and loco-manipulation.
 
 <!--
 **jjiayu/jjiayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
